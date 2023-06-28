@@ -13,5 +13,9 @@
  .pokedex{
     background-color: red;
     display: flex;
+    gap: 30px;
+    padding: 30px;
+
+
  }
  
