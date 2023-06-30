@@ -1,0 +1,10 @@
+.pokemon-cards{
+    background-color: coral;
+    box-shadow: rgb(100, 100, 111,0.2) 0px 7px 29px 0px;
+    border-radius: 10px; 
+}
+
+.pokemon-cards .card-top{
+    background-color: yellowgreen;
+    padding: 30px 40px 0;
+}
